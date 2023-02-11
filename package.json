@@ -12,7 +12,7 @@
   "author": "https://github.com/mauricioPisabarro",
   "license": "MIT",
   "dependencies": {
-    "nodemon": "^2.0.3",
+    "nodemon": "^2.0.20",
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.7.7",
     "@babel/node": "^7.7.7",
